@@ -1,11 +1,16 @@
 _repo: Roraima-and-British-Guiana-With-a-Glance-at-Bermuda-The-West-Indies-And-The-Spanish-Main_64461
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64461-h/images/cover.jpg
 creator:
   author:
     agent_name: Boddam-Whetham, John Whetham
     gutenberg_agent_id: '52912'
     url: http://www.gutenberg.org/2009/agents/52912
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64461#Roraima-and-British-Guiana-With-a-Glance-at-Bermuda-The-West-Indies-And-The-Spanish-Main
 gutenberg_issued: '2021-02-04'
 gutenberg_type: Text
 identifiers:
